@@ -11,7 +11,7 @@ const GlobalStyle = createGlobalStyle`
         min-height: 100%;
     }
     body {
-        background: #222;
+        background: whitesmoke;
         -webkit-font-smoothing: antialiased !important;
     }
     body, input, button {
